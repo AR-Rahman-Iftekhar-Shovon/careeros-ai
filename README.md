@@ -132,7 +132,9 @@ Honest status of what is complete and what is next:
 ## Author
 
 **[AR Rahman Iftekhar Shovon]**
-[LinkedIn]  (https://www.linkedin.com/in/ar-rahman-iftekhar-shovon/) · 
+
+[LinkedIn]  (https://www.linkedin.com/in/ar-rahman-iftekhar-shovon/)
+
 [GitHub]    (https://github.com/AR-Rahman-Iftekhar-Shovon)
 
 Feedback and suggestions are welcome. Feel free to open an issue.
